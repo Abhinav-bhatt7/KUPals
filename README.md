@@ -1,11 +1,11 @@
 # KUPals  
-A Web-Based Social Platform for Kathmandu University Students
+A Web-Based Social Platform for Kathmandu University Students.
 
 ## Project Overview
 
 KUPals is a lightweight, web-based social platform designed specifically for students at Kathmandu University. In a university setting, students often lack a centralized platform for connecting over shared interests and organizing social and academic activities. KUPals bridges that gap by providing:
 
-- Public interest groups (e.g., art, music, hiking, coding clubs)  
+- Public interest groups (e.g. art, music, hiking, coding clubs, gaming)  
 - Private groups for focused academic or social discussions  
 - Real-time chat and notifications  
 - Secure user authentication via Email/Google  
